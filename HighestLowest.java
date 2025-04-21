@@ -7,7 +7,7 @@ public class HighestLowest {
         System.out.print("Enter the no. of elements:");
         int num = input.nextInt();
 
-        if (num<=0) {
+        if (num <= 0) {
             System.out.println("Invalid input !!!");
             return;
         }
